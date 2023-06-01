@@ -1,0 +1,11 @@
+.film-description {
+    padding-top: 40px;
+    padding-bottom: 100px;
+    padding-left: 80px;
+    padding-right: 80px;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 50px;
+    text-shadow: 0, 6px, 6px, black;
+}

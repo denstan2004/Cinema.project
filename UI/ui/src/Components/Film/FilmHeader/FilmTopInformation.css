@@ -1,0 +1,63 @@
+.film-top-information {
+
+    border-radius: 15px;
+
+}
+
+.film-title {
+    padding-left: 5px;
+    padding-top: 6px;
+    text-align: left;
+    padding-bottom: 20px;
+    font-size: 50px;
+    text-shadow: rgb(37, 37, 37) 1px 0 5px;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.film-tags {
+    padding-left: 5px;
+    font-size: 30px;
+    padding-bottom: 15px;
+    color: rgb(255, 255, 255);
+}
+
+.film-director {
+    text-align: left;
+    padding-left: 5px;
+    font-size: 20px;
+    color: rgb(238, 222, 222);
+    padding-bottom: 20px;
+}
+
+.film-actors {
+    text-align: left;
+    padding-right: 10%;
+    padding-left: 5px;
+    font-size: 20px;
+
+    color: rgb(197, 197, 197);
+    padding-bottom: 30px;
+}
+
+.film-rating {
+
+   font-size: 100px;
+   color: red;
+}
+
+.button {
+    border-radius: 30px;
+    padding: 15px 30px;
+    border: 2px solid white;
+    color: white;
+     
+    background: none;
+    font-size: 40px;
+    margin: 30px 0px 0px 7%;
+}
+
+
+.button:hover {
+    background: white;
+    color: black;
+}
